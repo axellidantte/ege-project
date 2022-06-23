@@ -1,0 +1,11 @@
+.intro__text {
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0 0 2rem;
+    text-align: center;
+}
+
+.intro__text:first-of-type {
+    margin: 0 0 11rem 0;
+}
